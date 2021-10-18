@@ -146,12 +146,12 @@ public class MapboxConstants {
   /**
    * The currently supported maximum pitch level.
    */
-  public static final float MAXIMUM_PITCH = 60.0f;
+  public static final float MAXIMUM_PITCH = 100.0f;
 
   /**
    * The currently supported maximum tilt value.
    */
-  public static final double MAXIMUM_TILT = 60;
+  public static final double MAXIMUM_TILT = 100;
 
   /**
    * The currently supported minimum tilt value.
